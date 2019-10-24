@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+    
+    
+<!-- Global site tag (gtag.js) - Google Ads: 773242616 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-773242616"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-773242616');
+</script>
+
+<!-- Event snippet for 网页点击下载 conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-773242616/3SocCJSdwJ4BEPj92vAC'});
+</script>
+
+
+	</head>
+	<body>
+		
+		
+		
+	</body>
+  <script type="text/javascript">
+	  
+	  window.onload = function(){
+	
+	 var  value= sessionStorage.getItem("flg");
+  if(value==null || value==undefined){
+          setTimeout(function(){
+        sessionStorage.setItem("flg","2");
+        window.location.href = "https://at.umtrack.com/WjS1PD";
+       },100);
+  }
+	  }	  
+
+  </script>
+</html>
